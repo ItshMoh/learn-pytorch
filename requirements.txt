@@ -1,0 +1,2 @@
+# Only dependency for required lessons. Validated version is in VERIFICATION.md.
+torch>=2.6,<3
