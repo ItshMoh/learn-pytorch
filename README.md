@@ -1,6 +1,6 @@
 # PyTorch for building your first transformer
 
-A practical course for Mohan: comfortable with Python, beginning PyTorch, preparing for AI engineer interviews. Your destination is being able to write, train, inspect, and debug a small language model, then explain its design without relying on a framework wrapper.
+A practical course for pytorch ,preparing for AI engineer interviews. Your destination is being able to write, train, inspect, and debug a small language model, then explain its design without relying on a framework wrapper.
 
 This is a complete course in the PyTorch foundations needed for that destination. PyTorch also contains specialist areas such as distributed training, custom kernels, and deployment; the final lesson gives you a route into those after the foundations. You do not need to memorize the whole API.
 
